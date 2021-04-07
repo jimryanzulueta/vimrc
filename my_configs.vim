@@ -42,3 +42,5 @@ nn <Leader>rt          :call RunCurrentSpecFile()<CR>
 nn <Leader>rs          :call RunNearestSpec()<CR>
 nn <Leader>rl          :call RunLastSpec()<CR>
 nn <Leader>ra          :call RunAllSpecs()<CR>
+
+:set number
