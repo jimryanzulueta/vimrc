@@ -31,6 +31,8 @@ set guioptions-=L
 set background=dark
 colorscheme dracula
 set termguicolors
+highlight htmlBold gui=bold guifg=#af0000 ctermfg=124
+highlight htmlItalic gui=italic guifg=#ff8700 ctermfg=214
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
